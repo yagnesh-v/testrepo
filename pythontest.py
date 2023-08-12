@@ -1,2 +1,6 @@
 print("hello guys, how are you?")
 print ("edit this file")
+print ("Enter your firstname")
+print ("Enter your lastname")
+print ("Enter your emailaddress")
+print ("Select your DOB")
